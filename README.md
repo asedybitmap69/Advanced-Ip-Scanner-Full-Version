@@ -235,4 +235,4 @@ This repository serves as the official landing page for Advanced IP Scanner. The
 **Get the most recent version of Advanced IP Scanner today!**
 
 ---
-**Last updated:** 2026-09-15 22:40:30 UTC
+**Last updated:** 2026-09-16 01:00:46 UTC
